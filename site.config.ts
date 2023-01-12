@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Niramay Kachhadiya',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Niramay Kachhadiya',
 
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'niramay0369',
   github: 'niramay447',
-  linkedin: 'niramay0369',
+  linkedin: 'niramay-0369',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
